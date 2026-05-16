@@ -37,3 +37,27 @@ https://fakestoreapi.com/products
 ```bash
 Flutter 3.41.9
 Tools • Dart 3.11.5 • DevTools 2.54.2
+```
+
+---
+## Çalıştırma Adımları
+
+### 1. Projeyi Klonlayın
+```bash
+git clone <repo-link>
+```
+
+### 2. Proje Klasörüne Girin
+```bash
+cd mini_e-ticaret_katalog_app
+```
+
+### 3. Gerekli Paketleri Yükleyin
+```bash
+flutter pub get
+```
+
+### 4. Uygulamayı Başlatın
+```bash
+flutter run
+```
